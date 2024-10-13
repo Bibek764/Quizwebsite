@@ -1,11 +1,11 @@
 const questions = [
     {
-        question:"Lets start with the easy one hai ta, so tell me when is our anniversary?",
+        question:"Question goes here",
         answers:[
-            {text: "Falgun", correct:false},
-            {text: "Magh", correct:true},
-            {text: "Poush", correct:false},
-            {text: "Mangsir", correct:false},
+            {text: "Option 1", correct:false},
+            {text: "Option 2", correct:true},
+            {text: "Option 3", correct:false},
+            {text: "Option 4", correct:false},
         ]
     }
 ];
