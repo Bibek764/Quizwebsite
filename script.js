@@ -65,8 +65,8 @@ function selectAnswer(e){
 
 function showScore(){
     resetState();
-    questionElement.innerHTML = `You scored ${score} out of ${questions.length}! saanaa❤️`;
-    nextButton.innerHTML = "Click here to play again naanu";
+    questionElement.innerHTML = `You scored ${score} out of ${questions.length}! `;
+    nextButton.innerHTML = "Click here to play again";
     nextButton.style.display = "block";
 }
 
